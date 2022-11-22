@@ -1,0 +1,4 @@
+#base price is 3
+#multiplier
+Price.Jewellery:
+  value: 166.666667
